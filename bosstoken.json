@@ -3,7 +3,7 @@
   "timestamp": "2026-01-20T00:00:00Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tags": {},
-  "logoURI": "https://github.com/lodex23/BossToken/blob/7206ff13eaf5763ce6ccd5282f6e100e6951fec0/81c13d0d-7a4d-44df-b01c-f1f1da01787a-md.jpeg",
+  "logoURI": "https://raw.githubusercontent.com/lodex23/BossToken/main/logo.png",
   "keywords": ["bosstoken", "boss", "polygon"],
   "tokens": [
     {
@@ -12,8 +12,9 @@
       "name": "BOSSTOKEN",
       "symbol": "BOSS",
       "decimals": 18,
-      "logoURI": "https://github.com/lodex23/BossToken/blob/7206ff13eaf5763ce6ccd5282f6e100e6951fec0/81c13d0d-7a4d-44df-b01c-f1f1da01787a-md.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/lodex23/BossToken/main/logo.png"
     }
   ]
 }
+
 
