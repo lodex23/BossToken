@@ -1,9 +1,18 @@
 {
-  "name": "BOSSTOKEN",
-  "symbol": "BOSS",
-  "decimals": 18,
-  "description": "BOSSTOKEN is a community-driven token on Polygon. Built for people who think like a Boss.",
-  "logoURI": "https://github.com/lodex23/BossToken/blob/d535e67f9f196538fbd5ad2c92539783c6cb9d1b/81c13d0d-7a4d-44df-b01c-f1f1da01787a-md.jpeg",
-  "website": "https://example.com",
-  "twitter": "https://twitter.com/bosstoken"
+  "name": "BOSSTOKEN List",
+  "timestamp": "2026-01-20T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["bosstoken", "boss", "polygon"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xF0529485a58C894F5dE5DABC74DEfF915F78ee6C",
+      "name": "BOSSTOKEN",
+      "symbol": "BOSS",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
 }
